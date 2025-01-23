@@ -1,19 +1,21 @@
-## Hi there 👋It's me samir Dhakal for Chitwan,Nepal.
-I am currently pursuing electronics engineering from PULCHOWK CMAPUS.
+# About Me
 
-<!--
-**Samir-dhakal/Samir-dhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋
 
-Here are some ideas to get you started:
+I am a *1st-year Electronics Engineering student* currently studying at *IOE Pulchowk Engineering Campus*. As an enthusiast in new technology and innovation, I am always eager to explore cutting-edge ideas and bring them to life.
 
-- 🔭 I’m currently working on ...
+## Skills
+- *Programming Languages:*
+  - HTML, CSS, JavaScript
+  - C
 
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Exploring the latest tech and engineering trends
+- Working on innovative projects and ideas
+- Learning and growing in the field of technology
+
+## Collaboration
+I am open to collaborating on exciting projects, sharing knowledge, and learning from others in the community. Let's connect and create something amazing together! 🤝
+
+## Contact
+Feel free to reach out to me here on GitHub or connect with me for any collaboration opportunities!
