@@ -2,7 +2,7 @@
 
 Hi there! It's me samir 👋
 
-I am a *1st-year computer engineering * currently studying at *SRM university Kattankulatur *. As an enthusiast in new technology and innovation, I am always eager to explore cutting-edge ideas and bring them to life.
+I am a * 1st-year computer engineering * currently studying at * SRM university Kattankulatur *. As an enthusiast in new technology and innovation, I am always eager to explore cutting-edge ideas and bring them to life.
 
 ## Skills
 - *Programming Languages:*
