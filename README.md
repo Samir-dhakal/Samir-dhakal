@@ -24,7 +24,6 @@ I am **eager to learn and collaborate** on exciting projects, open-source contri
 
 ## 📩 Get in Touch
 - **GitHub:** github.com/samir-dhakal
-- **LinkedIn:** [Your LinkedIn Profile]
 - **Email:** samirdhakal.9279
 
 Looking forward to connecting and building together! 🚀
