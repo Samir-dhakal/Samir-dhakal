@@ -6,12 +6,12 @@ I am a **Computer Engineering student** at **SRM University, Kattankulathur**, w
 
 ## 🚀 Skills & Technologies
 - **Programming Languages:**
-  - C, C++
-  - HTML, CSS, JavaScript
+  - C, C++,java
+  - HTML, CSS
 - **Areas of Interest:**
-  - Web Development
+  - cloud computing 
   - Software Engineering
-  - Open-Source Contributions
+
 
 ## 🌱 Interests & Goals
 - Staying updated with the latest advancements in technology
