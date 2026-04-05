@@ -10,12 +10,12 @@ Computer Engineering student · SRM University, Kattankulathur
 ![Cloud](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6E40C9?style=flat-square&logo=gitbook&logoColor=white)
 
-<br>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=currently+learning+something+new+every+day;open+to+collabs+%26+open+source;building+one+commit+at+a+time+%F0%9F%9A%80)
-
-</div>
 ---
+</div>
+
 
 ## About me
 
