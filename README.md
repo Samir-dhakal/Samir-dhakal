@@ -6,11 +6,10 @@
 Computer Engineering student · SRM University, Kattankulathur
 
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
+![C/C++/Java](https://img.shields.io/badge/C%20%2F%20C%2B%2B%20%2F%20Java-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Cloud](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-6E40C9?style=flat-square&logo=gitbook&logoColor=white)
 currently learning something new every day█
 </div>
 
