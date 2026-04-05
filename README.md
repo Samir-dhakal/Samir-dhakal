@@ -1,31 +1,46 @@
-# 👋 About Me
+<!-- Header -->
+<div align="center">
 
-## Hi, I'm Samir!
+👋 **Hey, I'm Samir Dhakal**
 
-I am a **Computer Engineering student** at **SRM University, Kattankulathur**, with a deep passion for technology, innovation, and problem-solving. I love exploring emerging trends in the tech world and continuously expanding my skill set. My goal is to leverage technology to create impactful solutions while collaborating with like-minded individuals.
-
-## 🚀 Skills & Technologies
-- **Programming Languages:**
-  - C, C++,java
-  - HTML, CSS
-- **Areas of Interest:**
-  - cloud computing 
-  - Software Engineering
+Computer Engineering student · SRM University, Kattankulathur
 
 
-## 🌱 Interests & Goals
-- Staying updated with the latest advancements in technology
-- Building innovative and meaningful projects
-- Enhancing my problem-solving abilities
-- Contributing to the developer community
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-## 🤝 Let's Collaborate!
-I am **eager to learn and collaborate** on exciting projects, open-source contributions, and innovative ideas. Whether you're working on a groundbreaking project or looking for a coding partner, feel free to reach out—let's create something amazing together!
+![Cloud](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+currently learning something new every day█
+</div>
 
-## 📩 Get in Touch
-- **GitHub:** github.com/samir-dhakal
-- **Email:** samirdhakal.9279
+---
 
-Looking forward to connecting and building together! 🚀
+## About me
 
+I'm a passionate Computer Engineering student who believes technology is the greatest lever for change. I'm obsessed with emerging tech, love breaking things to understand them, and I'm always looking for the next challenge — whether that's a hackathon, an open-source project, or a late-night coding session.
 
+---
+
+## What I'm building towards
+
+- ⚡ Ship real-world projects that solve real problems
+- ☁️ Currently focousing in DSA and Spring Boot 
+- 🧠 Sharpen problem-solving through competitive programming
+
+---
+
+## Focus areas
+
+| ☁️ Cloud Computing | 🛠️ Software Engineering |
+|---|---|
+| Exploring distributed systems, scalability, and cloud-native architectures | Writing clean, maintainable code and learning the art of good system design |
+
+---
+
+## Let's connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-samir--dhakal-181717?style=flat-square&logo=github)](https://github.com/samir-dhakal)
+[![Email](https://img.shields.io/badge/Email-samirdhakal.9279-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samirdhakal.9279@gmail.com)
+
+> Open to collabs, open-source contributions, and anyone excited about tech. Let's build something.
